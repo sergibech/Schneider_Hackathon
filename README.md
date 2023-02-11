@@ -1,6 +1,9 @@
 # schneider-datathon
 Schneider Electric European Hackathon 2022 datathon dedicated repository
 
+## Results
+We achieved the 4th place out of 203 teams.
+
 ## Code execution
 In order to launch the code for the predictive model, you have to type:
 ```commandline
